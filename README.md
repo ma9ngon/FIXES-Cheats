@@ -7,4 +7,4 @@
 4) <a href="https://www.sordum.org/files/downloads.php?st-windows-update-blocker" target="_blank" >Tắt Windows Update</a>
   
 ##
-* <a href="https://i.upanh.org/2022/12/20/Chua-co-ten.png" >Để chế độ cửa sổ Không Viền(trong game) Và chế độ DX9</a> để có trải nghiệm tốt nhất
+* <a href="https://i.upanh.org/2022/12/20/Chua-co-ten.png" >Để chế độ cửa sổ Không Viền</a> để có trải nghiệm tốt nhất
