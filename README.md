@@ -7,4 +7,4 @@
 4) <a href="https://www.sordum.org/files/downloads.php?st-windows-update-blocker" target="_blank" >Tắt Windows Update</a>
   
 ##
-* <a href="https://i.upanh.org/2022/12/20/Chua-co-ten.png" >Để chế độ cửa sổ Không Viền</a> để có trải nghiệm tốt nhất
+* Để chế độ cửa sổ Không Viền để có trải nghiệm tốt nhất
