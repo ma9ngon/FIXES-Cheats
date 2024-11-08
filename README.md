@@ -7,4 +7,4 @@
 5) <a target="_blank" href="https://www.sordum.org/files/downloads.php?st-windows-update-blocker">Tắt Windows Update</a>
   
 ##
-* Để chế độ cửa sổ Không Viền để có trải nghiệm tốt nhất
+* [ 6 ] - Độ phân giải: Bạn cần phải "Windowed FullScreen"
