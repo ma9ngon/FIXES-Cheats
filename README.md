@@ -7,4 +7,4 @@
 5) <a target="_blank" href="https://www.sordum.org/files/downloads.php?st-windows-update-blocker">Tắt Windows Update</a>
   
 ##
-* [ 6 ] - Độ phân giải: Bạn cần phải "Windowed FullScreen"
+* [ 6 ] - Độ phân giải trò chơi: Bạn cần phải cài đặt"Windowed FullScreen"
